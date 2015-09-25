@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tinypressco.github.io
+title: TinyPress
+tagline: TinyPress
+description: The world's most innovative writing platform.
+paginate: 5
