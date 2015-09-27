@@ -12,6 +12,6 @@ Here's the syntax:<br />
 
 ![](http://i.imgur.com/KTOjpDn.png)
 
-Chat with us via blue button at bottom if you have any questions.
+Chat with us via blue button at bottom of [http://tinypress.co](http://tinypress.co) if you have any questions.
 
-Hope you enjoy! 
+Hope you enjoy!
