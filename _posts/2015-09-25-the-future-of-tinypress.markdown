@@ -4,9 +4,9 @@ title: The Future of TinyPress
 layout: post
 ---
 ## Mission & Vision
-Our <strong>vision</strong> is to be the world's most innovative writing company.
+Our <strong>vision</strong> is to be the world's most innovative open source writing company.
 
-Our <strong>mission</strong> is to always delight and surprise users with our product. Our mission will always be centered around the happiness we want our users feel when they use our product.
+Our <strong>mission</strong> is to always choose to delight and surprise users with every decision we make. Our mission will always be centered around the open source writing movement, and the passion we want our users feel when they use our product.
 
 ## Areas of Focus
 TinyPress could be a lot of things for a lot of people, but it will only be the right thing if it is focused.
@@ -22,7 +22,7 @@ There's a difference between measuring objectives for an entire company versus m
 You should always start at the top, and with that being said here are the objectives for the fourth quarter @tinypressco.
 
 1. Increase writer base > 1,000% 
-2. Perform over 95% on our monthly "delight survey"
+2. 95% positive reviews on our monthly "delight survey"
 
 ## Product Goals [Q4]
 In order to reach the above objectives for the company we need to set out specific product goals. 
