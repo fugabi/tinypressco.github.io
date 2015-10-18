@@ -21,9 +21,8 @@ There's a difference between measuring objectives for an entire company versus m
 
 You should always start at the top, and with that being said here are the objectives for the fourth quarter @tinypressco.
 
-1. <strike>Seamless transition to new owner</strike>
-2. Increase writer base > 1,000% 
-3. Perform over 95% on our monthly "delight survey"
+1. Increase writer base > 1,000% 
+2. Perform over 95% on our monthly "delight survey"
 
 ## Product Goals [Q4]
 In order to reach the above objectives for the company we need to set out specific product goals. 
