@@ -13,3 +13,4 @@ Cataloging feature requests:
 
 - <strong>Finished demo w/posts.</strong> I've decided to rebuild the gif on the homepage. It will include a demo and full walk through of the product from start to finish. This should help people understand how the product works. In the meantime this blog post you are reading is rendered using our "Hyde" theme. It's quite nice!
 - <strong>Custom domains.</strong> We currently offer custom domains but the setting is buried, and we don't mention it on the homepage - so I will be adding a line item on the homepage for this feature.
+- <strong>Post how-tos on the new post page.</strong> I've decided to add a link on the new post page to a single tinypress blog post that shows you exactly how to insert syntax using our syntax highlighting, and other common questions I get from people not familiar with Jekyll. This is coming soon. 
