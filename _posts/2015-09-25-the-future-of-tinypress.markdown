@@ -36,3 +36,4 @@ In order to reach the above objectives for the company we need to set out specif
 7. <strong>Web</strong>: Users should be able to comment on another person's writing.
 8. <strong>Web</strong>: Users should be able to browse inspirational feeds from within the service.
 9. <strong>Web</strong>: Users should be able to select from a large quantity of amazing and responsive themes.
+10. <strong>Web</strong>: Users should be able to share a post via Twitter/Facebook/etc.
