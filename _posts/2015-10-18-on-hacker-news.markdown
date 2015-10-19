@@ -20,3 +20,4 @@ Cataloging feature requests:
 - <strong>Android app about page has a typo and links to the wrong twitter account.</strong> Embarrassing. Submitting fix for this within a day or two.
 - <strong>If you've installed the Android app and then changed your GitHub username the app constantly crashes.</strong> This is a sign of a deeper issue in the Android app code, and I'll be digging into this as soon as I can.
 - <strong>Markdown live preview.</strong> Because nobody likes to hit a button, especially when they know they don't technically have to.
+- <strong>Full screen writing area.</strong> Because it's nice.
