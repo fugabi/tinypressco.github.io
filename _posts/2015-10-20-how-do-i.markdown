@@ -1,0 +1,20 @@
+---
+published: true
+title: How do I ...
+layout: post
+---
+Hi everyone! 
+
+This is a collection of "How tos" that I hope act as a resource for some of the more manual/confusing aspects of TinyPress currently. Keep in mind literally everything on this list is being worked on to make automated, or generally better. 
+
+Also, keep in mind this is a live updating list that will continuously grow.
+
+1. How do I backdate posts?
+
+Click "Advanced Options" below your existing post, and then modify the date shown in the image below.
+
+![](http://i.imgur.com/2EgPaBY.png)
+
+Then hit "Post", and go back to your /posts page. You will see it created another post, for the date you just specified. At this point you have two versions - one in the old date, and one in the new date - so you can just delete the date you don't want and in a matter of minutes you're newly dated post will be live on your blog.
+
+<hr />
