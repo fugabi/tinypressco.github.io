@@ -25,6 +25,7 @@ Cataloging feature requests:
 - <strong>WordPress import.</strong>
 - <strong>Allow any user to add themes.</strong> Currently technically possible by contacting me with open source theme repo, make this more clear.
 - <strong>GitHub markdown support.</strong>
+- <strong>Users want to use tinypress in a separate repo project (/repo.github.io/project).</strong>
 
 Bugs (User reported):
 
