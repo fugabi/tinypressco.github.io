@@ -24,8 +24,9 @@ Cataloging feature requests:
 - <strong>Ability for others to comment on blog posts.</strong>
 - <strong>WordPress import.</strong>
 - <strong>Allow any user to add themes.</strong> Currently technically possible by contacting me with open source theme repo, make this more clear.
+- <strong>GitHub markdown support.</strong>
 
 Bugs (User reported):
 
 - Sometimes I've noticed when I use non alphanumeric characters (such as : or -) in the post title, it shows no title, but in github it does show it right. this is not always happening so it's hard to replicate sometimes.
-- Users with unique characters in their names get crashes everytime when we parse the _config.yml file. 
+- Users with unique characters in their names get crashes everytime when we parse the _config.yml file.
