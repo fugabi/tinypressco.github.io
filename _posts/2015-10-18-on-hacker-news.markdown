@@ -31,3 +31,4 @@ Bugs (User reported):
 
 - Sometimes I've noticed when I use non alphanumeric characters (such as : or -) in the post title, it shows no title, but in github it does show it right. this is not always happening so it's hard to replicate sometimes.
 - Users with unique characters in their names get crashes everytime when we parse the _config.yml file.
+- Blog post images are not responsive and therefore break the layout of the otherwise responsive design
