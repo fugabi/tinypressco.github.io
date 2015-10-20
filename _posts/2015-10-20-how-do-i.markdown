@@ -9,6 +9,20 @@ This is a collection of "How tos" that I hope act as a resource for some of the 
 
 Also, keep in mind this is a live updating list that will continuously grow.
 
+### How do I add syntax highlighting to a post?
+
+I can't show you via typing, because the editor will attempt to render my examples... haha, so here's an image of the syntax for doing highlighting. Keep in mind this is default Jekyll style syntax highlighting! 
+
+This syntax...
+
+![](http://i.imgur.com/hmktzEK.png)
+
+Will render to look like...
+![](http://i.imgur.com/INeqGCO.png)
+
+
+This will render using the CSS file you have in your repository. Each theme comes with a default syntax highlighting CSS file, and most themes include more than one. You can find them in your /css folder on GitHub, and if you want to switch them you simply goto your head file in the /includes folder and swap one version out for the other! :)
+
 ### How do I backdate posts?
 
 Click "Advanced Options" below your existing post, and then modify the date shown in the image below.
