@@ -21,3 +21,10 @@ Cataloging feature requests:
 - <strong>If you've installed the Android app and then changed your GitHub username the app constantly crashes.</strong> This is a sign of a deeper issue in the Android app code, and I'll be digging into this as soon as I can.
 - <strong>Markdown live preview.</strong> Because nobody likes to hit a button, especially when they know they don't technically have to.
 - <strong>Full screen writing area.</strong> Because it's nice.
+- <strong>Ability for others to comment on blog posts.</strong>
+- <strong>WordPress import.</strong>
+- <strong>Allow any user to add themes.</strong> Currently technically possible by contacting me with open source theme repo, make this more clear.
+
+Bugs (User reported):
+
+- Sometimes I've noticed when I use non alphanumeric characters (such as : or -) in the post title, it shows no title, but in github it does show it right. this is not always happening so it's hard to replicate sometimes.
